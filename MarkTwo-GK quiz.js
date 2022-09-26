@@ -70,7 +70,7 @@ function play(question, answer) {
   }
 
   console.log("current score: ", score);
-  console.log("-------------")
+  console.log("------------")
 }
 
 function game() {
